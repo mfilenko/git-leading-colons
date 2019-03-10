@@ -1,0 +1,21 @@
+{
+  "name": "git-leading-colons",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Lorem ipsum dolor sit amet, ne docendi omnesque accusamus duo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfilenko/git-leading-colons.git"
+  },
+  "keywords": [],
+  "author": "Max Filenko <contact@filenko.ms>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfilenko/git-leading-colons/issues"
+  },
+  "homepage": "https://github.com/mfilenko/git-leading-colons#readme"
+}
